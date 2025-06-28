@@ -1,0 +1,33 @@
+<div class="wrapper">
+
+  <div><button id="buttonSave" type="button" ng-click="save()" >Save</button></div>
+  <div><button id="buttonSave" type="button" ng-click="stats()" >Stats</button></div>
+
+  <div id="canvas-holder">
+    <div class="chart-timer">
+      <label >{{globalTimer | secondsToDateTime | date:'HH:mm:ss'}}</label>
+    </div>
+    <canvas id="doughnut" class="chart chart-doughnut"
+      chart-data="data" 
+      chart-labels="labels"
+      chart-colors="colors"
+      chart-options="options"
+      chart-dataset-override="DataSetOverride">
+    </canvas> 
+  </div>
+ 
+ 
+  <ul class="bg-bubbles">
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+</div>
+<!--  chart-onclick="clickme" -->  
