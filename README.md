@@ -16,11 +16,10 @@ Various dependencies are used ( angular-material, angular-animate ) to enhance t
 
 ## 🛠️ Technologies Used
 
--AngularJS
-
--PHP
--SQL
--LESS
--HTML
--npm (package manager)
--Visual Studio Code (development environment)
+- AngularJS
+- PHP
+- SQL
+- LESS
+- HTML
+- npm (package manager)
+- Visual Studio Code (development environment)
