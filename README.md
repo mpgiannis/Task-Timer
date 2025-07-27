@@ -1,4 +1,4 @@
-📊 Task Timer & Tracker App
+# 📊 Task Timer & Tracker App
 
 The application supports user authentication via login, so that their details and information are stored.
 
@@ -12,18 +12,12 @@ The application is designed with an emphasis on style and visual appearance, usi
 
 Various dependencies are used ( angular-material, angular-animate ) to enhance the user interface (UI).
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-AngularJS
-
-PHP
-
-SQL
-
-LESS
-
-HTML
-
-npm (package manager)
-
-Visual Studio Code (development environment)
+-AngularJS
+-PHP
+-SQL
+-LESS
+-HTML
+-npm (package manager)
+-Visual Studio Code (development environment)
