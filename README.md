@@ -12,9 +12,12 @@ The application is designed with an emphasis on style and visual appearance, usi
 
 Various dependencies are used ( angular-material, angular-animate ) to enhance the user interface (UI).
 
+---
+
 ## 🛠️ Technologies Used
 
 -AngularJS
+
 -PHP
 -SQL
 -LESS
